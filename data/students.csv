@@ -1,0 +1,201 @@
+student_id,student_name,date_of_birth,gender,country
+1,Jamima Legges,2023-10-02,F,Qatar
+2,Tandy Karpol,2020-08-09,F,Portugal
+3,Yardley Ayrs,2021-02-08,M,Poland
+4,Kareem Heintsch,2021-05-19,F,Democratic Republic of the Congo
+5,Ruperto Welband,2023-01-30,F,Armenia
+6,Sigismondo Grimsley,2022-04-02,F,China
+7,Maria Wogden,2022-05-07,M,Philippines
+8,Adrian Scarlan,2020-11-12,M,Jamaica
+9,Brice Andreichik,2020-09-29,F,Russia
+10,Sally Colaton,2023-06-24,M,China
+11,Bryn Gladding,2021-08-22,F,Republic of the Congo
+12,Innis Corstorphine,2020-03-23,M,China
+13,Aryn Goldsworthy,2020-04-30,M,Portugal
+14,Liam Byway,2022-11-09,F,China
+15,Paulo Swansborough,2020-09-24,M,France
+16,Hersch O'Nion,2023-10-16,F,Mongolia
+17,Joice Bicker,2023-07-30,M,Brazil
+18,Dorise Vedyashkin,2021-12-02,M,China
+19,Carlen Killingback,2022-04-18,M,Thailand
+20,Martynne Sandbatch,2021-04-23,F,Philippines
+21,Ninnetta Aiston,2021-10-28,M,Greece
+22,Marmaduke MacCague,2020-04-11,F,Portugal
+23,Hall Albarez,2021-04-22,M,Sweden
+24,Zaccaria Isacq,2022-06-15,F,Finland
+25,Katrine Coupland,2022-09-10,M,South Sudan
+26,Inga Ropartz,2022-04-17,F,United States
+27,Delores Arnau,2020-09-16,F,Armenia
+28,Ogdan Broomer,2022-04-24,F,Philippines
+29,Luce Kirkman,2022-03-30,M,Ecuador
+30,Carce Rothermel,2022-08-01,F,China
+31,Kailey Mallord,2021-02-28,M,Russia
+32,Bevin Waby,2021-07-07,M,Nicaragua
+33,Gerta Gill,2023-09-13,F,Zambia
+34,Amaleta Lackney,2022-03-20,F,Indonesia
+35,Eberto Sauvan,2022-08-01,M,Egypt
+36,Sansone Adenet,2022-11-19,M,Republic of the Congo
+37,Leicester Cleevely,2022-07-25,F,Sweden
+38,Justinian Wherrett,2020-05-12,F,Syria
+39,Eadith Edgeworth,2021-10-12,F,Albania
+40,Cathleen Keld,2020-08-31,F,Honduras
+41,Adel Pancoast,2023-07-26,M,Netherlands
+42,Eddy O' Markey,2022-12-09,F,Japan
+43,Rafael Brunroth,2021-01-15,M,Indonesia
+44,Marylee Rennebach,2020-11-13,F,Indonesia
+45,Parry Kruschev,2022-05-16,M,Indonesia
+46,Lacey Cobain,2023-10-12,M,Moldova
+47,Rosita Iianon,2023-06-05,M,China
+48,Carla Jeness,2020-07-25,F,Thailand
+49,Abbe Kealy,2021-12-20,F,Colombia
+50,Cornelia Dacombe,2020-04-29,F,Tanzania
+51,Teriann Lougheed,2022-04-28,F,Brazil
+52,Anneliese Wistance,2022-09-15,M,Indonesia
+53,Loralee Breslin,2020-06-20,M,South Africa
+54,Elayne Hawford,2022-06-08,F,Russia
+55,Sigfrid Leele,2020-06-12,M,France
+56,Lucila Davana,2023-07-28,F,Syria
+57,Clarke Whiffin,2020-07-03,M,Iran
+58,Kristel McMullen,2023-01-15,M,Peru
+59,Daile Husk,2022-09-01,M,Colombia
+60,Wayne Fere,2020-05-25,M,United States
+61,Gianni Blaisdell,2021-09-13,M,Canada
+62,Meghann Lamb-shine,2020-03-23,F,Peru
+63,Marti Carrack,2023-10-09,F,Peru
+64,Jeane Bohling,2023-07-05,F,Russia
+65,Elianora Bruna,2023-03-22,M,China
+66,Tabina Deegan,2020-10-07,M,Argentina
+67,Jesse Harome,2021-09-16,M,Portugal
+68,Marven Gyenes,2021-07-07,M,France
+69,Arlina Sweetmore,2023-01-24,F,Brazil
+70,Flossie Revening,2023-03-23,M,Russia
+71,Loren Bendig,2022-11-17,F,Thailand
+72,Brandy Vakhlov,2021-10-29,M,Greece
+73,Mattie Patington,2020-09-13,F,China
+74,Lezley Milillo,2020-08-20,M,Brazil
+75,Elnar Gladbeck,2022-07-24,F,Sierra Leone
+76,Rochella Dealey,2020-04-03,M,Peru
+77,Laureen Caulcott,2021-01-10,F,Ukraine
+78,Casi Chesters,2022-10-25,M,United States
+79,Vilma Simmens,2022-08-12,M,Slovenia
+80,Leslie Murfill,2023-09-24,M,Burkina Faso
+81,Natividad Gledhill,2021-08-23,M,Yemen
+82,Odele Torel,2023-05-03,F,Portugal
+83,Alard Fernant,2022-05-26,F,Russia
+84,Hatty Fuzzard,2022-09-26,F,Japan
+85,Dawna Dunbobin,2023-06-11,M,Colombia
+86,Brietta Screech,2022-10-27,M,United States
+87,Dorri Simmins,2021-03-01,F,Mexico
+88,Lydie Laskey,2020-04-26,M,Bolivia
+89,Lorry Velti,2020-08-06,F,Argentina
+90,Sammy Finnick,2020-03-08,F,China
+91,Korrie Road,2023-09-08,M,China
+92,Meryl Foucard,2020-06-22,M,China
+93,Tess Duns,2020-07-06,M,China
+94,Berti Lettington,2022-03-19,F,China
+95,Philis Braben,2023-08-25,M,Japan
+96,Pascale Kerne,2022-09-12,F,Philippines
+97,Tasha Trittam,2021-09-27,M,China
+98,Jerome Jezard,2023-09-05,M,Philippines
+99,Cyrille Presnell,2021-11-13,M,Portugal
+100,Mildrid Ablewhite,2023-07-31,F,South Korea
+101,Koral Tocher,2023-09-09,F,Germany
+102,Flori Ferraro,2022-06-11,M,Russia
+103,Ofella Goakes,2023-03-21,M,Portugal
+104,Carly Humphries,2021-11-10,F,Colombia
+105,Seline Mulligan,2021-07-15,F,China
+106,Cosmo Baytrop,2022-08-11,F,Iran
+107,Quinn Schaffel,2023-11-09,M,Indonesia
+108,Milka Jiru,2022-12-23,F,China
+109,Burke O'Bradain,2023-07-18,F,Canada
+110,Clem Feetham,2020-11-02,F,China
+111,Kalina Hoff,2022-04-24,F,Czech Republic
+112,Maure Spinke,2023-09-10,F,Ivory Coast
+113,Ronny Pridmore,2023-01-24,M,Sweden
+114,Zacherie Gulston,2022-02-19,M,China
+115,Halsy Assard,2020-11-17,F,China
+116,Gerda Wingham,2023-04-18,F,Paraguay
+117,Sapphira Scrowby,2022-07-22,F,Japan
+118,Rivy Gilardone,2020-05-09,F,Sweden
+119,Timotheus Rikkard,2020-04-14,M,China
+120,Dahlia Broadberrie,2022-09-20,M,Indonesia
+121,Cash Dulinty,2020-08-25,M,Poland
+122,Jeanine Shawyers,2020-07-28,M,China
+123,Marve Palin,2022-01-10,F,Bosnia and Herzegovina
+124,Ira Plank,2021-06-25,F,Netherlands
+125,Porter Guerri,2020-07-31,M,China
+126,Deena Shropshire,2020-03-19,M,Indonesia
+127,Louis Neylon,2021-03-10,F,Argentina
+128,Osbourne Brehaut,2023-10-22,F,Sweden
+129,Jessalyn Spilsbury,2023-08-09,M,Indonesia
+130,Lida Boughtflower,2023-05-28,M,France
+131,Manda Foster,2023-03-20,F,Indonesia
+132,Wallache Sawer,2021-04-20,M,Thailand
+133,Lorrin Stanley,2023-03-31,F,Sweden
+134,Felicity Lumsdon,2022-05-19,M,Indonesia
+135,Frederik Lomb,2020-07-02,M,United States
+136,Clarine Randell,2020-09-30,F,Indonesia
+137,Garey Dunk,2022-08-13,F,Greece
+138,Quinta Mawhinney,2021-05-09,F,Indonesia
+139,Dagmar McKew,2023-07-19,F,Poland
+140,Ahmad Jelley,2022-02-10,M,France
+141,Jareb Hackley,2021-01-16,M,Ethiopia
+142,Paxton Heustace,2021-12-06,M,Netherlands
+143,Ringo Keningley,2021-01-03,F,Iran
+144,Katherina Ferri,2020-11-07,F,Peru
+145,Odele Moncrefe,2023-05-26,M,China
+146,Lorita Duchesne,2020-09-07,M,Colombia
+147,Haywood De Matteis,2022-06-05,F,Mexico
+148,Alena Fishbourne,2023-08-30,M,China
+149,Mack Crudgington,2023-08-29,F,China
+150,Darsie Gaywood,2023-01-23,F,Brazil
+151,Kiri Vivers,2021-04-11,F,Brazil
+152,Antony Croom,2023-07-09,M,Azerbaijan
+153,Nate Bairnsfather,2023-03-29,F,Mauritius
+154,Christy Friel,2021-04-18,F,Indonesia
+155,Bobbette Sherrocks,2022-09-11,M,Palestinian Territory
+156,Elladine Nyssen,2021-10-13,M,Vietnam
+157,Valencia Delleschi,2023-06-24,M,Russia
+158,Paula Balaizot,2021-05-28,M,Philippines
+159,Chic Govenlock,2020-06-04,M,Portugal
+160,Carmine Hincks,2022-05-12,F,Poland
+161,Luciano Purvey,2023-04-13,M,China
+162,Shayne Tenbrug,2021-01-16,F,Brazil
+163,Victoir Hing,2023-08-27,F,Greece
+164,Michaella Roadnight,2020-09-16,F,China
+165,Sawyer Benito,2020-07-19,F,Russia
+166,Kylila Simonou,2022-09-18,F,Russia
+167,Athena Hayhoe,2021-09-19,M,China
+168,Gwen O'Henery,2023-03-18,F,France
+169,Shani Voase,2020-04-23,M,France
+170,Hyatt Standingford,2020-03-26,M,Vietnam
+171,Francklyn Ilchenko,2020-08-25,M,Colombia
+172,Bryna Dudny,2020-04-13,F,Iran
+173,Nellie Lumsdall,2021-11-28,F,Philippines
+174,Geri Turbitt,2023-05-16,M,Indonesia
+175,Glori Kegg,2023-10-10,M,France
+176,Fonz Grinaway,2020-12-22,M,China
+177,Jefferey Sidsaff,2020-09-29,M,United States
+178,Erica Viger,2022-06-27,F,Argentina
+179,Ara Adamovsky,2020-06-01,M,Hungary
+180,Shell Bracegirdle,2022-09-11,M,France
+181,Almeta Todarello,2023-04-13,M,Indonesia
+182,Fabian Lambie,2023-04-02,M,France
+183,Aylmar Ianniello,2020-05-23,F,Greece
+184,Broddy Marshland,2020-11-23,F,Indonesia
+185,Zack Baribal,2021-07-01,F,Spain
+186,Ronny McAlroy,2020-11-24,F,Brazil
+187,Lynea Hatfield,2023-10-13,F,China
+188,Carree Utting,2023-02-28,M,Greece
+189,Lenore Rebillard,2023-09-06,M,China
+190,Dewie Alstead,2022-10-10,F,Brazil
+191,Tedda Arne,2021-08-21,M,Greece
+192,Hortense Lenahan,2021-10-23,M,Indonesia
+193,Carlynn Cleyburn,2020-11-08,M,Egypt
+194,Kameko Issard,2020-05-11,F,Honduras
+195,Perri Santori,2020-05-05,F,Philippines
+196,Bink Burkart,2023-03-12,F,China
+197,Charline Kitchenman,2021-08-03,F,Indonesia
+198,Dorice Sarginson,2022-03-05,F,Brazil
+199,Pennie McCloch,2020-07-06,F,Poland
+200,Iorgos Ruskin,2023-06-04,F,Cameroon
